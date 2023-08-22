@@ -1,4 +1,4 @@
-# hydrogen
+# Hydrogen
 
 A new Flutter project.
 
