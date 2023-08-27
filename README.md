@@ -1,6 +1,6 @@
 # Hydrogen
 
-A new Flutter projects.
+A new Flutter projects
 
 ## Getting Started
 
